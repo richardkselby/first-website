@@ -5,9 +5,15 @@
   position: fixed;
   top: 0;
   width: 100%
+  background-color: #dddddd
 }
 
-li a {
+li {
+  float: left;
+}
+
+a {
   display: block;
   width: 60px;
+  padding: 8px;
 }
